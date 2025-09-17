@@ -25,7 +25,7 @@ https://github.com/CanGitArchive/Drone-Test
 
 ### Linux + Git (Core) — Proof Pack
 What I built: SSH, branches/PRs, tmux session, udev basics.  
-**Proof:** [linux-git-demo]([...](https://github.com/CanGitArchive/linux-git-demo))
+**Proof:** [linux-git-demo](https://github.com/CanGitArchive/linux-git-demo)
 
 ## Publications
 - IJANSER paper · arXiv preprint:
