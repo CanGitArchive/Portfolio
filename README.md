@@ -11,7 +11,9 @@ Problem: single-EMG control that recognizes multiple patterns.
 What I built: signal processing + control + mechanical design.  
 Tech: C++/Python, DTW, CAD.  
 **Proof:**
+
 https://github.com/CanGitArchive/Prosthetic-Hand-Single-EMG-Multi-Pattern
+
 https://as-proceeding.com/index.php/ijanser/article/view/1728
 
 ### Spraying Drone — Design & Optimization
@@ -30,5 +32,5 @@ What I built: SSH, branches/PRs, tmux session, udev basics.
 https://doi.org/10.48550/arXiv.2504.15256 
 
 ## Contact
-kadilarmustafacan@gmail.com · [LinkedIn](https://www.linkedin.com/in/can-kadilar/) · GitHub
+kadilarmustafacan@gmail.com · [LinkedIn](https://www.linkedin.com/in/can-kadilar/) · [GitHub](https://github.com/CanGitArchive/Portfolio/tree/main)
 
