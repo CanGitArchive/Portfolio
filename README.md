@@ -1,4 +1,32 @@
-# Portfolio
+# Can Kadılar — Mechatronics & Robotics Engineer (M.Sc.)
+Canadian citizen • Istanbul/Turkey → Canada (3–6 mo) • Email / LinkedIn
+
+- Build & integrate: CAD (SolidWorks/Fusion/NX), embedded (ESP32/PIC, C++), Linux/ROS2 (intro)
+- Projects: EMG prosthetic hand (multi-pattern), spraying drone optimization, Linux/Git ops proofs
+- Interests: industrial automation, robotics integration, simulation
+
+## Projects (selected)
+### EMG Prosthetic Hand — Multi-Pattern Control
+Problem: single-EMG control that recognizes multiple patterns.  
+What I built: signal processing + control + mechanical design.  
+Tech: C++/Python, DTW, CAD.  
+**Proof:** repo · paper · demo GIF
+
+### Spraying Drone — Design & Optimization
+Problem: coverage vs weight trade-off.  
+What I built: frame design, sensors, test data.  
+Tech: CAD, I²C/SPI, Python.  
+**Proof:** repo · photos · short video
+
+### Linux + Git (Core) — Proof Pack
+What I built: SSH, branches/PRs, tmux session, udev basics.  
+**Proof:** [linux-git-demo](...) · tmux screenshot · PR link · cheatsheet
+
+## Publications
+- IJANSER paper · arXiv preprint (links)
+
+## Contact
+Email · LinkedIn · GitHub
 
 ## Linux and Git Works
 
