@@ -15,4 +15,5 @@
 ## Articles
 
 [Published Prosthetic Hand](https://as-proceeding.com/index.php/ijanser/article/view/1728)
+
 [Prepublished Prosthetic Hand Improvement](https://doi.org/10.48550/arXiv.2504.15256)
