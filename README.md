@@ -8,6 +8,14 @@
 
 [Prosthetic Hand](https://github.com/CanGitArchive/Prosthetic-Hand-Single-EMG-Multi-Pattern)
 
+## Python use example
+
+[Simple Workout App](https://github.com/CanGitArchive/WorkoutHelpers)
+
+## Godot AARPG Example
+
+[Simple AARPG game](https://github.com/CanGitArchive/aarpg)
+
 ## Spraying Drone Test Video and Pictures
 
 [Drone](https://github.com/CanGitArchive/Drone-Test)
