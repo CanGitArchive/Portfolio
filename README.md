@@ -2,14 +2,14 @@
 
 ## Linux and Git Works
 
-[Example Code](https://github.com/CanGitArchive/linux-git-demo)
+[Click for Details](https://github.com/CanGitArchive/linux-git-demo)
 <p align="center">
   <img src="media/portfolio_1.gif" alt="Linux Demo" width="420">
 </p>
 
 ## Linux CLI Hardware I/O
 
-[Example Code](https://github.com/CanGitArchive/hardware-io-linux)
+[Click for Details](https://github.com/CanGitArchive/hardware-io-linux)
 <p align="center">
   <img src="media/portfolio_2.gif" alt="I/O Demo" width="420">
 </p>
