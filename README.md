@@ -3,7 +3,7 @@
 ## Linux and Git Works
 
 [Linux Demo Code](https://github.com/CanGitArchive/linux-git-demo)
-![Demo](media/demo.gif)
+![Demo](media/portfolio_1.gif)
 
 ## C++, Signal Processing and Prosthetic Hand Project
 
