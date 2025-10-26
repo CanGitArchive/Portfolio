@@ -7,6 +7,12 @@
   <img src="media/portfolio_1.gif" alt="Linux Demo" width="420">
 </p>
 
+## Linux CLI Hardware I/O
+
+[Example Code](https://github.com/CanGitArchive/hardware-io-linux)
+<p align="center">
+  <img src="media/portfolio_2.gif" alt="I/O Demo" width="420">
+</p>
 
 ## C++, Signal Processing and Prosthetic Hand Project
 
