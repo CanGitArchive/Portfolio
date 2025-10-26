@@ -1,6 +1,6 @@
 # Portfolio
 
-## Linux and Git Works
+## Linux Tmux and Git
 
 [Click for Details](https://github.com/CanGitArchive/linux-git-demo)
 <p align="center">
