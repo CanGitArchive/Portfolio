@@ -2,7 +2,7 @@
 
 ## Linux and Git Works
 
-[Linux Demo Code](https://github.com/CanGitArchive/linux-git-demo)
+[Example Code](https://github.com/CanGitArchive/linux-git-demo)
 <p align="center">
   <img src="media/portfolio_1.gif" alt="Linux Demo" width="420">
 </p>
