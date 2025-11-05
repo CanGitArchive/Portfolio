@@ -14,6 +14,13 @@
   <img src="media/portfolio_2.gif" alt="I/O Demo" width="420">
 </p>
 
+## Networking with Robots
+
+[Click for Details](https://github.com/CanGitArchive/networking-lab)
+<p align="center">
+  <img src="media/Networking_basics.gif" alt="I/O Demo" width="420">
+</p>
+
 ## C++, Signal Processing and Prosthetic Hand Project
 
 [Prosthetic Hand](https://github.com/CanGitArchive/Prosthetic-Hand-Single-EMG-Multi-Pattern)
