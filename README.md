@@ -31,6 +31,9 @@
 ## C++, Signal Processing and Prosthetic Hand Project
 
 [Prosthetic Hand](https://github.com/CanGitArchive/Prosthetic-Hand-Single-EMG-Multi-Pattern)
+<p align="center">
+  <img src="media/ProstheticHand.gif" alt="PHand Demo" width="420">
+</p>
 
 ## Python use example
 
