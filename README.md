@@ -38,6 +38,9 @@
 ## Python use example
 
 [Simple Workout App](https://github.com/CanGitArchive/WorkoutHelpers)
+<p align="center">
+  <img src="media/SimpleWorkoutApp.gif" alt="Phython Demo" width="420">
+</p>
 
 ## Godot AARPG Example
 
