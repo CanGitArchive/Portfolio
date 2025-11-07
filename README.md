@@ -64,7 +64,7 @@ Repository: **[CanGitArchive/WorkoutHelpers](https://github.com/CanGitArchive/Wo
   
 [**View published article:**](documents/publishedArticle.pdf) https://as-proceeding.com/index.php/ijanser/article/view/1728
 
-[**View republished improved article:**](documents/impovedRepublishedArticle.pdf) [https://as-proceeding.com/index.php/ijanser/article/view/1728](https://doi.org/10.48550/arXiv.2504.15256)
+[**View republished improved article:**](documents/impovedRepublishedArticle.pdf) https://doi.org/10.48550/arXiv.2504.15256
 
 - **Spraying drone design/optimization (B.Sc.):** airframe + mission tradeoffs; CAD assemblies; component selection.
   
