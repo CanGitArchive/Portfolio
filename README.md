@@ -17,7 +17,7 @@
 
 ---
 
-## Proof‑of‑work (short demos)
+## Short demos of work
 
 ### 1) ROS 2 Essentials — talker/listener + params + RViz/TF
 Repository: **[CanGitArchive/ROS2](https://github.com/CanGitArchive/ROS2)**  
