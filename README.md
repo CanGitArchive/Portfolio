@@ -23,7 +23,7 @@
 
 ## RoS2 Basics
 
-[Click for Details]([https://github.com/CanGitArchive/networking-lab](https://github.com/CanGitArchive/ROS2))
+[Click for Details](https://github.com/CanGitArchive/ROS2)
 <p align="center">
   <img src="media/RoS2_RViz.gif" alt="RoS2 Demo" width="420">
 </p>
