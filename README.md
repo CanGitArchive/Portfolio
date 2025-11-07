@@ -86,7 +86,7 @@ Repository: **[CanGitArchive/WorkoutHelpers](https://github.com/CanGitArchive/Wo
 
 ---
 
-## Learning’s next (in progress)
+## Learning next (in progress)
 - Controls/PLC: ladder & ST snippets + “I/O bring‑up checklist”.  
 - Embedded demo on ESP32: IMU readout over I²C + motor PWM control; log + plots.  
 - Perception lite: camera node (ROS 2) + OpenCV filtering + latency/throughput plots.  
