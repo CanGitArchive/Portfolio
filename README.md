@@ -60,8 +60,11 @@ Repository: **[CanGitArchive/WorkoutHelpers](https://github.com/CanGitArchive/Wo
 
 ## Selected Projects (academic/independent)
 
-- **EMG‑controlled prosthetic hand (M.Sc.):** signal pattern control (DTW), embedded integration, and mechanism design.  
-- **Spraying drone design/optimization (B.Sc.):** airframe + mission tradeoffs; CAD assemblies; component selection.  
+- **EMG‑controlled prosthetic hand (M.Sc.):** signal pattern control (DTW), embedded integration, and mechanism design.
+[Published Prosthetic Hand](https://as-proceeding.com/index.php/ijanser/article/view/1728)
+[Prepublished Prosthetic Hand Improvement](https://doi.org/10.48550/arXiv.2504.15256)
+- **Spraying drone design/optimization (B.Sc.):** airframe + mission tradeoffs; CAD assemblies; component selection.
+[Respository](https://github.com/CanGitArchive/Drone-Test)
 - **Robotics competitions:** 6th solo; 1st as school team (50+ competitors).  
 - **Club lead & workshops:** led university robotics club; presented projects to 100+ attendees.
 
