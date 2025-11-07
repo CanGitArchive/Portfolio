@@ -46,7 +46,7 @@
 
 [Drone](https://github.com/CanGitArchive/Drone-Test)
 <p align="center">
-  <img src="media/Drone gif.gif" alt="Phython Demo" width="420">
+  <img src="media/DroneFlight.gif" alt="Drone Demo" width="420">
 </p>
 
 ## Articles
