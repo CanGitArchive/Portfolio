@@ -95,6 +95,6 @@ Repository: **[CanGitArchive/WorkoutHelpers](https://github.com/CanGitArchive/Wo
 ---
 
 ## Resume & Contact
-- **Resume (PDF):** add link here (GitHub release or Google Drive).  
+- [**Resume (PDF)**](documents/CV_CK.pdf) 
 - **Email:** kadilarmustafacan@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/can-kadilar
