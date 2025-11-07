@@ -18,7 +18,13 @@
 
 [Click for Details](https://github.com/CanGitArchive/networking-lab)
 <p align="center">
-  <img src="media/Networking_basics.gif" alt="I/O Demo" width="420">
+  <img src="media/Networking_basics.gif" alt="Networking Demo" width="420">
+</p>
+
+## RoS2 Basics
+
+<p align="center">
+  <img src="media/RoS2_RViz.gif" alt="RoS2 Demo" width="420">
 </p>
 
 ## C++, Signal Processing and Prosthetic Hand Project
