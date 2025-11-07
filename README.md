@@ -27,8 +27,6 @@ What’s inside: publisher/subscriber, parameter control (`hz`), service (`reset
   <img src="media/RoS2_RViz.gif" alt="ROS2 RViz demo" width="720">
 </p>
 
-**Why it matters:** mirrors day‑to‑day robotics integration: nodes, topics, params, TF frames, and launch debugging.
-
 ---
 
 ### 2) Networking for Robots — VLAN + static IP lab
@@ -38,8 +36,6 @@ What’s inside: switch/VLAN config scripts, `ip(8)`/`nmcli` workflows, `arp/pin
 <p align="center">
   <img src="media/Networking_basics.gif" alt="Networking lab demo" width="720">
 </p>
-
-**Why it matters:** deploy/debug robot cells on real networks; read a VLAN plan; verify connectivity quickly.
 
 ---
 
@@ -51,8 +47,6 @@ What’s inside: virtual serial cable via `socat`, Python `pyserial` logger → 
   <img src="media/ProstheticHand.gif" alt="Serial logging demo (illustrative gif)" width="720">
 </p>
 
-**Why it matters:** mechatronics glue—clean device naming, permissions, and robust logging on Ubuntu.
-
 ---
 
 ### 4) Simple Workout App (PyQt) — packaging & UX
@@ -61,8 +55,6 @@ Repository: **[CanGitArchive/WorkoutHelpers](https://github.com/CanGitArchive/Wo
 <p align="center">
   <img src="media/SimpleWorkoutApp.gif" alt="PyQt App demo" width="720">
 </p>
-
-**Why it matters:** shows Python packaging, UI logic, and basic state handling—useful for operator tools & dashboards.
 
 ---
 
@@ -86,7 +78,7 @@ Repository: **[CanGitArchive/WorkoutHelpers](https://github.com/CanGitArchive/Wo
 
 ---
 
-## What’s next (in progress)
+## Learning’s next (in progress)
 - Controls/PLC: ladder & ST snippets + “I/O bring‑up checklist”.  
 - Embedded demo on ESP32: IMU readout over I²C + motor PWM control; log + plots.  
 - Perception lite: camera node (ROS 2) + OpenCV filtering + latency/throughput plots.  
@@ -98,5 +90,3 @@ Repository: **[CanGitArchive/WorkoutHelpers](https://github.com/CanGitArchive/Wo
 - **Resume (PDF):** add link here (GitHub release or Google Drive).  
 - **Email:** kadilarmustafacan@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/can-kadilar
-
-> If you’re hiring: I can spin up on your stack quickly. Give me a lab bench, a switch, and a robot—I'll bring it to life.
