@@ -2,6 +2,7 @@
 
 **Entry-level Mechatronics Engineer (M.Sc., GPA 3.71)** designing, building, and integrating robotic/automation systems.  
 **Status:** Canadian citizen · Based in Turkey (moving to Canada upon offer) · Open to Canada & US (TN eligible).  
+**Proof of Education:** [WES Certificate](https://badges.wes.org/Evidence?i=be215bdf-790a-445e-96e4-6a01ee62d936&type=ca)
 **Contact:** kadilarmustafacan@gmail.com · [LinkedIn](https://www.linkedin.com/in/can-kadilar)
 
 ---
