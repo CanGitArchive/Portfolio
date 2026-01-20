@@ -57,7 +57,7 @@ Repository: **[CanGitArchive/WorkoutHelpers](https://github.com/CanGitArchive/Wo
 
 ## Selected Projects (academic/independent)
 
-- **EMG‑controlled prosthetic hand (M.Sc.):** signal pattern control (DTW), embedded integration, and mechanism design.
+### **EMG‑controlled prosthetic hand (M.Sc.):** signal pattern control (DTW), embedded integration, and mechanism design.
 
 <p align="center">
   <img src="media/ProstheticHand.gif" alt="Serial logging demo (illustrative gif)" width="720">
@@ -66,17 +66,19 @@ Repository: **[CanGitArchive/WorkoutHelpers](https://github.com/CanGitArchive/Wo
 [**View published article:**](documents/publishedArticle.pdf) https://as-proceeding.com/index.php/ijanser/article/view/1728
 
 [**View republished improved article:**](documents/impovedRepublishedArticle.pdf) https://doi.org/10.48550/arXiv.2504.15256
+[Respository and more information here](https://github.com/CanGitArchive/Prosthetic-Hand-Single-EMG-Multi-Pattern)
 
-- **Spraying drone design/optimization (B.Sc.):** airframe + mission tradeoffs; CAD assemblies; component selection.
+### **Spraying drone design/optimization (B.Sc.):** airframe + mission tradeoffs; CAD assemblies; component selection.
+
+<p align="center">
+  <img src="media/DroneFlight.gif" alt="Drone flight" width="520">  
+</p>
   
 [Respository and more information here](https://github.com/CanGitArchive/Drone-Test)
 
 - **Robotics competitions:** 6th solo; 1st as school team (50+ competitors).  
 - **Club lead & workshops:** led university robotics club; presented projects to 100+ attendees.
 
-<p align="center">
-  <img src="media/DroneFlight.gif" alt="Drone flight" width="520">  
-</p>
 
 ---
 
