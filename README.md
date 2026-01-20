@@ -44,10 +44,6 @@ What’s inside: switch/VLAN config scripts, `ip(8)`/`nmcli` workflows, `arp/pin
 Repository: **[CanGitArchive/hardware-io-linux](https://github.com/CanGitArchive/hardware-io-linux)**  
 What’s inside: virtual serial cable via `socat`, Python `pyserial` logger → CSV, and real device bring‑up using **udev** persistent symlinks (`/dev/imu`).
 
-<p align="center">
-  <img src="media/ProstheticHand.gif" alt="Serial logging demo (illustrative gif)" width="720">
-</p>
-
 ---
 
 ### 4) Simple Workout App (PyQt) — packaging & UX
@@ -62,6 +58,10 @@ Repository: **[CanGitArchive/WorkoutHelpers](https://github.com/CanGitArchive/Wo
 ## Selected Projects (academic/independent)
 
 - **EMG‑controlled prosthetic hand (M.Sc.):** signal pattern control (DTW), embedded integration, and mechanism design.
+
+<p align="center">
+  <img src="media/ProstheticHand.gif" alt="Serial logging demo (illustrative gif)" width="720">
+</p>
   
 [**View published article:**](documents/publishedArticle.pdf) https://as-proceeding.com/index.php/ijanser/article/view/1728
 
